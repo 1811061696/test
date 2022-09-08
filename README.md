@@ -1,4 +1,4 @@
-# Ex_5_CURD
+# Ex_test
 
 # Chuẩn bị
 - Api
@@ -9,6 +9,7 @@
 ==> fake Api 
     + http://localhost:3000/product
     + http://localhost:3000/user
+    + http://localhost:3000/order
     + POST: 3000
     
 # UI
