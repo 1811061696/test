@@ -13,7 +13,7 @@
     + POST: 3000
     
 # UI
-   + run folder: curd_react_app  
+   + run folder: ex_test 
         npm start
         POST: 3001
       
