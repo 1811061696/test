@@ -4,8 +4,8 @@
 - Api
     install 
         : `npm install -g json-server`
-    start
-        :  json-server --watch data.json
+    start: run folder: json_sever
+        :  json-server --watch db.json
 ==> fake Api 
     + http://localhost:3000/product
     + http://localhost:3000/user
